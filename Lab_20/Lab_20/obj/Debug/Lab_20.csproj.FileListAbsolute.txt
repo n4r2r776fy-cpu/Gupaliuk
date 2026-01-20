@@ -1,0 +1,7 @@
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\obj\Debug\Lab_20.csproj.AssemblyReference.cache
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\obj\Debug\Lab_20.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\bin\Debug\Lab_20.exe.config
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\bin\Debug\Lab_20.exe
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\bin\Debug\Lab_20.pdb
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\obj\Debug\Lab_20.exe
+D:\ООП_2026\Gupaliuk\Lab_20\Lab_20\obj\Debug\Lab_20.pdb

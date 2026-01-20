@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\services\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\services\\inmemoryorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\services\\consoleemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\services\\consoleemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\services\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\services\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\services\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\interfaces\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\interfaces\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_20\\lab_20\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40041438-01D8-49B0-B984-5F54F7FA071A}|Lab_20\\Lab_20.csproj|solutionrelative:lab_20\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "image.png",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\image.png",
+              "RelativeDocumentMoniker": "Lab_20\\image.png",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\image.png",
+              "RelativeToolTip": "Lab_20\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-20T12:36:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\README.md",
+              "RelativeDocumentMoniker": "Lab_20\\README.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\README.md",
+              "RelativeToolTip": "Lab_20\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-20T12:35:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Services\\OrderProcessor.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderProcessor.cs",
+              "RelativeToolTip": "Lab_20\\Services\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:20:41.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderValidator.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Interfaces\\IOrderValidator.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Interfaces\\IOrderValidator.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Interfaces\\IOrderValidator.cs",
+              "RelativeToolTip": "Lab_20\\Interfaces\\IOrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:19:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Models\\Order.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Models\\Order.cs",
+              "RelativeToolTip": "Lab_20\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:14:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleEmailService.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\ConsoleEmailService.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Services\\ConsoleEmailService.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\ConsoleEmailService.cs",
+              "RelativeToolTip": "Lab_20\\Services\\ConsoleEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:21:34.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Services\\OrderService.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderService.cs",
+              "RelativeToolTip": "Lab_20\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:21:53.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderValidator.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderValidator.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Services\\OrderValidator.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\OrderValidator.cs",
+              "RelativeToolTip": "Lab_20\\Services\\OrderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:20:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Program.cs",
+              "RelativeToolTip": "Lab_20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:13:34.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryOrderRepository.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\InMemoryOrderRepository.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Services\\InMemoryOrderRepository.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Services\\InMemoryOrderRepository.cs",
+              "RelativeToolTip": "Lab_20\\Services\\InMemoryOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:21:16.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Lab_20\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_20\\Lab_20\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Lab_20\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:20:07.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
