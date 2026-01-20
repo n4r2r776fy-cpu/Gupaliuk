@@ -1,2 +1,0 @@
-D:\ООП_2026\Gupaliuk\Cam_15\Cam_15\obj\Debug\Cam_15.csproj.AssemblyReference.cache
-D:\ООП_2026\Gupaliuk\Cam_15\Cam_15\obj\Debug\Cam_15.csproj.CoreCompileInputs.cache
