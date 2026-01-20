@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0421\u0430\u043C_16\\image.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\uml.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\uml.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\iproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\iproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|d:\\\u043E\u043E\u043F_2026\\\u043E\u043E\u043F_\u0441\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0441\u0430\u043C_16\\\u0441\u0430\u043C_16\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80254056-FE28-4FF3-8B4C-53690EE5C7F9}|\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16.csproj|solutionrelative:\u0441\u0430\u043C_16\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "image.png",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\image.png",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\image.png",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\image.png",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\image.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-20T11:54:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\README.md",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\README.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\README.md*",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\README.md*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-20T11:49:36.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UML.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\UML.md",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\UML.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\UML.md",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\UML.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-20T11:48:22.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\Program.cs",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\Program.cs",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:43:29.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductManager.cs",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\ProductManager.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductManager.cs",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:43:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\ProductValidator.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductValidator.cs",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\ProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:43:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductService.cs",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\ProductService.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\ProductService.cs",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:42:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductValidator.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\IProductValidator.cs",
+              "RelativeDocumentMoniker": "\u0421\u0430\u043C_16\\IProductValidator.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\\u041E\u041E\u041F_\u0421\u0430\u043C\u043E\u0441\u0442\u0456\u0439\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211616\\\u0421\u0430\u043C_16\\\u0421\u0430\u043C_16\\IProductValidator.cs",
+              "RelativeToolTip": "\u0421\u0430\u043C_16\\IProductValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:42:03.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
