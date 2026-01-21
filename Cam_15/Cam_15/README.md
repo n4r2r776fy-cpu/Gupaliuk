@@ -1,14 +1,8 @@
 # Звіт з аналізу SOLID принципів (SRP, OCP) в Open-Source проекті
 
-## 1. Обраний проект
-- **Назва:** ASP.NET Core RealWorld Example App
-- **Посилання на GitHub:** [https://github.com/gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)
-- **Мова:** C# (.NET 7/8)
-- **Технології:** ASP.NET Core, MediatR, AutoMapper, FluentValidation, EF Core, JWT
-
 ---
 
-## 2. Аналіз SRP (Single Responsibility Principle)
+## 1            . Аналіз SRP (Single Responsibility Principle)
 
 ### 2.1. Приклади дотримання SRP
 
