@@ -50,5 +50,13 @@
     <None Include="App.config" />
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="image.png" />
+    <Content Include="image2.png" />
+    <Content Include="image3.png" />
+    <Content Include="image4.png" />
+    <Content Include="image5.png" />
+    <Content Include="image6.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

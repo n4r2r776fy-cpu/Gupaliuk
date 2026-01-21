@@ -1,168 +1,69 @@
-# Звіт з аналізу SOLID принципів (SRP, OCP) в Open-Source проекті
+п»ї# Р—РІС–С‚ Р· Р°РЅР°Р»С–Р·Сѓ SOLID РїСЂРёРЅС†РёРїС–РІ (SRP, OCP) РІ Open-Source РїСЂРѕС”РєС‚С–
 
-## 1. Обраний проект
-- **Назва:** ASP.NET Core RealWorld Example App
-- **Посилання на GitHub:** [https://github.com/gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)
-- **Мова:** C# (.NET 7/8)
-- **Технології:** ASP.NET Core, MediatR, AutoMapper, FluentValidation, EF Core, JWT
+## 1. РћР±СЂР°РЅРёР№ РїСЂРѕС”РєС‚
 
----
+* **РќР°Р·РІР°:** Humanizer
+* **РџРѕСЃРёР»Р°РЅРЅСЏ РЅР° GitHub:** [https://github.com/n4r2r776fy-cpu/Gupaliuk/tree/main/Cam_15/Cam_15]
 
-## 2. Аналіз SRP (Single Responsibility Principle)
+## 2. РђРЅР°Р»С–Р· SRP (Single Responsibility Principle)
 
-### 2.1. Приклади дотримання SRP
+### 2.1. РџСЂРёРєР»Р°РґРё РґРѕС‚СЂРёРјР°РЅРЅСЏ SRP
 
-#### Клас: ProductController
-- **Відповідальність:** Обробка HTTP-запитів для продуктів.
-- **Обґрунтування:** Контролер займається лише маршрутизацією та викликом сервісу.
-```csharp
-public class ProductController
-{
-    private readonly IProductService _service;
+#### РљР»Р°СЃ: `DateHumanizeExtensions`
 
-    public ProductController(IProductService service)
-    {
-        _service = service;
-    }
+* **Р’С–РґРїРѕРІС–РґР°Р»СЊРЅС–СЃС‚СЊ:** Р¤РѕСЂРјСѓС” В«Р»СЋРґСЃСЊРєС–В» СЂСЏРґРєРё РґР»СЏ РґР°С‚Рё С‚Р° С‡Р°СЃСѓ (РЅР°РїСЂРёРєР»Р°Рґ, вЂњ2 РіРѕРґРёРЅРё С‚РѕРјСѓвЂќ, вЂњРІС‡РѕСЂР°вЂќ).
+* **РћР±Т‘СЂСѓРЅС‚СѓРІР°РЅРЅСЏ:** РљР»Р°СЃ РјР°С” РѕРґРЅСѓ С‡С–С‚РєСѓ РІС–РґРїРѕРІС–РґР°Р»СЊРЅС–СЃС‚СЊ вЂ“ РєРѕРЅРІРµСЂС‚Р°С†С–СЋ РґР°С‚ Сѓ С‡РёС‚Р°Р±РµР»СЊРЅРёР№ С„РѕСЂРјР°С‚.
 
-    public async Task<IActionResult> Get(int id)
-    {
-        var product = await _service.GetByIdAsync(id);
-        if (product == null)
-            return new NotFoundResult();
+![Screen](image.png)
 
-        return new OkObjectResult(product);
-    }
-}
-```
+#### РљР»Р°СЃ: `NumberHumanizeExtensions`
 
-#### Клас: ProductService
-- **Відповідальність:** Логіка бізнес-операцій над продуктами.
-- **Обґрунтування:** Реалізує лише логіку роботи з продуктами, не займаючись контролерами чи іншими функціями.
-```csharp
-public interface IProductService
-{
-    Task<ProductDto> GetByIdAsync(int id);
-}
+* **Р’С–РґРїРѕРІС–РґР°Р»СЊРЅС–СЃС‚СЊ:** Р¤РѕСЂРјСѓС” В«Р»СЋРґСЃСЊРєС–В» СЂСЏРґРєРё РґР»СЏ С‡РёСЃРµР» (РЅР°РїСЂРёРєР»Р°Рґ, 1000 в†’ "1K").
+* **РћР±Т‘СЂСѓРЅС‚СѓРІР°РЅРЅСЏ:** Р’С–РґРїРѕРІС–РґР°Р»СЊРЅС–СЃС‚СЊ РѕР±РјРµР¶РµРЅР° Р»РёС€Рµ С‡РёСЃР»Р°РјРё; РЅРµРјР°С” Р»РѕРіС–РєРё РґР»СЏ РґР°С‚ С‡Рё С–РЅС€РёС… С‚РёРїС–РІ.
 
-public class ProductService : IProductService
-{
-    private readonly IProductRepository _repository;
+![Screen](image2.png)
 
-    public ProductService(IProductRepository repository)
-    {
-        _repository = repository;
-    }
+### 2.2. РџСЂРёРєР»Р°РґРё РїРѕСЂСѓС€РµРЅРЅСЏ SRP
 
-    public Task<ProductDto> GetByIdAsync(int id)
-    {
-        return _repository.GetByIdAsync(id);
-    }
-}
-```
+#### РљР»Р°СЃ: `TimeSpanHumanize`
 
-### 2.2. Приклади порушення SRP
+* **РњРЅРѕР¶РёРЅРЅС– РІС–РґРїРѕРІС–РґР°Р»СЊРЅРѕСЃС‚С–:**
 
-#### Клас: OrderManager
-- **Множинні відповідальності:** Валідація, оплата, збереження у базу, email-повідомлення.
-- **Проблеми:** Важко тестувати, підтримувати, розширювати.
-```csharp
-public class OrderManager
-{
-    public void Create(Order order)
-    {
-        ValidateOrder(order);
-        ProcessPayment(order);
-        SaveOrderToDatabase(order);
-        SendConfirmationEmail(order);
-    }
+  1. РљРѕРЅРІРµСЂС‚Р°С†С–СЏ `TimeSpan` Сѓ СЂСЏРґРєРё.
+  2. Р›РѕРєР°Р»С–Р·Р°С†С–СЏ РїС–Рґ СЂС–Р·РЅС– РєСѓР»СЊС‚СѓСЂРё.
+  3. Р¤РѕСЂРјР°С‚СѓРІР°РЅРЅСЏ РґР»СЏ СЂС–Р·РЅРёС… СЃС‚РёР»С–РІ (РєРѕСЂРѕС‚РєРёР№, РґРѕРІРіРёР№).
+* **РџСЂРѕР±Р»РµРјРё:** РЎРєР»Р°РґРЅРѕ С‚РµСЃС‚СѓРІР°С‚Рё С‚Р° РјРѕРґРёС„С–РєСѓРІР°С‚Рё, Р±СѓРґСЊ-СЏРєР° Р·РјС–РЅР° Р»РѕРєР°Р»С–Р·Р°С†С–С— С‡Рё С„РѕСЂРјР°С‚Сѓ РІРїР»РёРЅРµ РЅР° РѕСЃРЅРѕРІРЅСѓ С„СѓРЅРєС†С–РѕРЅР°Р»СЊРЅС–СЃС‚СЊ.
 
-    private void ValidateOrder(Order order) { /* ... */ }
-    private void ProcessPayment(Order order) { /* ... */ }
-    private void SaveOrderToDatabase(Order order) { /* ... */ }
-    private void SendConfirmationEmail(Order order) { /* ... */ }
-}
-```
+![Screen](image3.png)
 
----
+## 3. РђРЅР°Р»С–Р· OCP (Open/Closed Principle)
 
-## 3. Аналіз OCP (Open/Closed Principle)
+### 3.1. РџСЂРёРєР»Р°РґРё РґРѕС‚СЂРёРјР°РЅРЅСЏ OCP
 
-### 3.1. Приклади дотримання OCP
+#### РњРѕРґСѓР»СЊ: `IFormatter` С–РЅС‚РµСЂС„РµР№СЃ
 
-#### Стратегія оплати (Strategy Pattern)
-- **Механізм розширення:** Інтерфейси `IPaymentProcessor` для різних способів оплати.
-- **Обґрунтування:** Нові способи додаються без зміни існуючого коду.
-```csharp
-public interface IPaymentProcessor
-{
-    void ProcessPayment(Payment payment);
-}
+* **РњРµС…Р°РЅС–Р·Рј СЂРѕР·С€РёСЂРµРЅРЅСЏ:** Р†РЅС‚РµСЂС„РµР№СЃ РґРѕР·РІРѕР»СЏС” РґРѕРґР°РІР°С‚Рё РЅРѕРІС– С„РѕСЂРјР°С‚Рё Р±РµР· Р·РјС–РЅРё С–СЃРЅСѓСЋС‡РёС… РєР»Р°СЃС–РІ.
+* **РћР±Т‘СЂСѓРЅС‚СѓРІР°РЅРЅСЏ:** РќРѕРІС– СЂРµР°Р»С–Р·Р°С†С–С— РјРѕР¶СѓС‚СЊ РґРѕРґР°РІР°С‚Рё С„РѕСЂРјР°С‚СѓРІР°РЅРЅСЏ РґР»СЏ С‡РёСЃРµР» Р°Р±Рѕ РґР°С‚, РЅРµ Р·РјС–РЅСЋСЋС‡Рё Р±Р°Р·РѕРІРёР№ РєРѕРґ.
 
-public class StripeProcessor : IPaymentProcessor
-{
-    public void ProcessPayment(Payment payment)
-    {
-        // Логіка Stripe
-    }
-}
+![Screen](image4.png)
 
-public class PaypalProcessor : IPaymentProcessor
-{
-    public void ProcessPayment(Payment payment)
-    {
-        // Логіка PayPal
-    }
-}
-```
+#### РњРѕРґСѓР»СЊ: РЎС‚СЂР°С‚РµРіС–СЏ Р»РѕРєР°Р»С–Р·Р°С†С–С—
 
-### 3.2. Приклади порушення OCP
+* **РњРµС…Р°РЅС–Р·Рј СЂРѕР·С€РёСЂРµРЅРЅСЏ:** Р’РёРєРѕСЂРёСЃС‚Р°РЅРЅСЏ Р°Р±СЃС‚СЂР°РєС‚РЅРѕРіРѕ РєР»Р°СЃСѓ Р°Р±Рѕ СЃР»РѕРІРЅРёРєР° СЂРµСЃСѓСЂСЃС–РІ РґР»СЏ РґРѕРґР°РІР°РЅРЅСЏ РЅРѕРІРёС… РјРѕРІ.
+* **РћР±Т‘СЂСѓРЅС‚СѓРІР°РЅРЅСЏ:** Р”РѕРґР°СЋС‡Рё РЅРѕРІСѓ РєСѓР»СЊС‚СѓСЂСѓ, РЅРµ РїРѕС‚СЂС–Р±РЅРѕ Р·РјС–РЅСЋРІР°С‚Рё Р±Р°Р·РѕРІРёР№ Humanizer РєРѕРґ.
 
-#### Клас: DiscountCalculator
-- **Проблема:** Додавання нової категорії потребує зміни коду.
-- **Наслідки:** Знижує підтримуваність та розширюваність.
-```csharp
-public enum CustomerType { Regular, Vip, Employee }
+![Screen](image5.png)
 
-public class DiscountCalculator
-{
-    public decimal Calculate(Order order)
-    {
-        if (order.CustomerType == CustomerType.Regular)
-            return order.Total * 0.05M;
-        else if (order.CustomerType == CustomerType.Vip)
-            return order.Total * 0.15M;
-        else if (order.CustomerType == CustomerType.Employee)
-            return order.Total * 0.25M;
+### 3.2. РџСЂРёРєР»Р°РґРё РїРѕСЂСѓС€РµРЅРЅСЏ OCP
 
-        return 0;
-    }
-}
-```
+#### РњРѕРґСѓР»СЊ: Humanize `switch` РІ `TimeSpanHumanize`
 
----
+* **РџСЂРѕР±Р»РµРјР°:** Р”РѕРґР°С‚Рё РЅРѕРІРёР№ С„РѕСЂРјР°С‚ С‡Р°СЃСѓ РїРѕС‚СЂРµР±СѓС” Р·РјС–РЅРё С–СЃРЅСѓСЋС‡РѕРіРѕ `switch-case` Р±Р»РѕРєСѓ.
+* **РќР°СЃР»С–РґРєРё:** РџРѕСЂСѓС€СѓС” OCP; Р·РјС–РЅРё РІ РѕРґРЅРѕРјСѓ РјС–СЃС†С– РјРѕР¶СѓС‚СЊ РЅРµРЅР°РІРјРёСЃРЅРѕ РІРїР»РёРЅСѓС‚Рё РЅР° РІР¶Рµ С–СЃРЅСѓСЋС‡С– С„РѕСЂРјР°С‚Рё.
 
-## 4. Допоміжні класи для демонстрації
-```csharp
-public class Order
-{
-    public CustomerType CustomerType { get; set; }
-    public decimal Total { get; set; }
-}
+![Screen](image6.png)
 
-public class Payment { }
+## 4. Р—Р°РіР°Р»СЊРЅС– РІРёСЃРЅРѕРІРєРё
 
-public class ProductDto { }
-
-public interface IProductRepository
-{
-    Task<ProductDto> GetByIdAsync(int id);
-}
-
-// Імітація результатів контролера
-public class IActionResult { }
-public class OkObjectResult : IActionResult
-{
-    public OkObjectResult(object value) { }
-}
-public class NotFoundResult : IActionResult { }
+РџСЂРѕС”РєС‚ Humanizer РґРѕР±СЂРµ РґРѕС‚СЂРёРјСѓС”С‚СЊСЃСЏ РїСЂРёРЅС†РёРїС–РІ SRP С‚Р° OCP Сѓ Р±С–Р»СЊС€РѕСЃС‚С– РјРѕРґСѓР»С–РІ: РєР»Р°СЃРё РјР°СЋС‚СЊ С‡С–С‚РєС– РѕР±РѕРІвЂ™СЏР·РєРё, Р° СЂРѕР·С€РёСЂРµРЅРЅСЏ С„СѓРЅРєС†С–РѕРЅР°Р»СЊРЅРѕСЃС‚С– СЂРµР°Р»С–Р·РѕРІР°РЅРµ С‡РµСЂРµР· С–РЅС‚РµСЂС„РµР№СЃРё С‚Р° Р°Р±СЃС‚СЂР°РєС†С–С—.
+РџСЂРѕС‚Рµ С” РґРµСЏРєС– РєР»Р°СЃРё, СЏРє `TimeSpanHumanize`, СЏРєС– РїРѕСЂСѓС€СѓСЋС‚СЊ SRP С‚Р° OCP С‡РµСЂРµР· РЅР°РєРѕРїРёС‡РµРЅРЅСЏ Р»РѕРіС–РєРё С– РІРµР»РёРєС– `switch` Р±Р»РѕРєРё. Р¦Рµ СѓСЃРєР»Р°РґРЅСЋС” РїС–РґС‚СЂРёРјРєСѓ, С‚РµСЃС‚СѓРІР°РЅРЅСЏ С‚Р° Р»РѕРєР°Р»С–Р·Р°С†С–СЋ, С– РјРѕР¶Рµ РїСЂРёР·РІРµСЃС‚Рё РґРѕ РїРѕРјРёР»РѕРє РїСЂРё РґРѕРґР°РІР°РЅРЅС– РЅРѕРІРёС… С„СѓРЅРєС†С–Р№.

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\cam_15\\cam_15\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|solutionrelative:cam_15\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\cam_15\\solidexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|solutionrelative:cam_15\\solidexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\cam_15\\cam_15\\solidexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|solutionrelative:cam_15\\solidexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\cam_15\\cam_15\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{98C84EFF-C10E-4779-8475-166040C55BEC}|Cam_15\\Cam_15.csproj|solutionrelative:cam_15\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\Cam_15\\README.md",
               "RelativeDocumentMoniker": "Cam_15\\README.md",
               "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\Cam_15\\README.md",
               "RelativeToolTip": "Cam_15\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-20T13:12:42.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SOLIDExamples.cs",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\Cam_15\\SOLIDExamples.cs",
               "RelativeDocumentMoniker": "Cam_15\\SOLIDExamples.cs",
               "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Cam_15\\Cam_15\\SOLIDExamples.cs",
               "RelativeToolTip": "Cam_15\\SOLIDExamples.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T13:11:41.454Z",
               "EditorCaption": ""
