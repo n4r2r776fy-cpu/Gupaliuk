@@ -3,7 +3,7 @@
 ## 1. Обраний проєкт
 
 * **Назва:** Humanizer
-* **Посилання на GitHub:** [https://github.com/n4r2r776fy-cpu/Gupaliuk/tree/main/Cam_15/Cam_15]
+* **Посилання на GitHub:** [https://github.com/n4r2r776fy-cpu/Gupaliuk/tree/main/%D0%A1%D0%B0%D0%BC_15/Ca%D0%BC_15]
 
 ## 2. Аналіз SRP (Single Responsibility Principle)
 
