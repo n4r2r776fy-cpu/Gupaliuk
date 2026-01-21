@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC5132-F03D-467F-842C-F1B3448CC507}|Lab_21\\Lab_21.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_21\\lab_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EC5132-F03D-467F-842C-F1B3448CC507}|Lab_21\\Lab_21.csproj|solutionrelative:lab_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EC5132-F03D-467F-842C-F1B3448CC507}|Lab_21\\Lab_21.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_21\\lab_21\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{73EC5132-F03D-467F-842C-F1B3448CC507}|Lab_21\\Lab_21.csproj|solutionrelative:lab_21\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_21\\Lab_21\\README.md",
+              "RelativeDocumentMoniker": "Lab_21\\README.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_21\\Lab_21\\README.md",
+              "RelativeToolTip": "Lab_21\\README.md",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-21T10:15:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_21\\Lab_21\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_21\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_21\\Lab_21\\Program.cs",
+              "RelativeToolTip": "Lab_21\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T10:13:44.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

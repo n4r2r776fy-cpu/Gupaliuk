@@ -1,0 +1,7 @@
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\bin\Debug\Lab_21.exe.config
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\bin\Debug\Lab_21.exe
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\bin\Debug\Lab_21.pdb
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\obj\Debug\Lab_21.csproj.AssemblyReference.cache
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\obj\Debug\Lab_21.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\obj\Debug\Lab_21.exe
+D:\ООП_2026\Gupaliuk\Lab_21\Lab_21\obj\Debug\Lab_21.pdb
