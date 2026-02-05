@@ -1,0 +1,15 @@
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\bin\Debug\net8.0\Lab_22.exe
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\bin\Debug\net8.0\Lab_22.deps.json
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\bin\Debug\net8.0\Lab_22.runtimeconfig.json
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\bin\Debug\net8.0\Lab_22.dll
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\bin\Debug\net8.0\Lab_22.pdb
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.sourcelink.json
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.dll
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\refint\Lab_22.dll
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.pdb
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\Lab_22.genruntimeconfig.cache
+D:\ООП_2026\Gupaliuk\Lab_22\Lab_22\obj\Debug\net8.0\ref\Lab_22.dll
