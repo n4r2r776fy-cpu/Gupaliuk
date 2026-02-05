@@ -1,7 +1,0 @@
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\bin\Debug\Lab_23.exe.config
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\bin\Debug\Lab_23.exe
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\bin\Debug\Lab_23.pdb
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\obj\Debug\Lab_23.csproj.AssemblyReference.cache
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\obj\Debug\Lab_23.csproj.CoreCompileInputs.cache
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\obj\Debug\Lab_23.exe
-D:\ООП_2026\Gupaliuk\Lab_23\Lab_23\obj\Debug\Lab_23.pdb
