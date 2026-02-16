@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\cubeoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cubeoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\squarerootoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\squarerootoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\squareoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\squareoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\numericprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\numericprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\resultpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\resultpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\consoleloggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleloggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\historyloggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\historyloggerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\thresholdnotifierobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\thresholdnotifierobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_24\\consoleapp1\\consoleapp1\\inumericoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D3FEC5-FADA-4783-B8A6-194217CD25E8}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inumericoperationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\README.md",
+              "RelativeDocumentMoniker": "ConsoleApp1\\README.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\README.md",
+              "RelativeToolTip": "ConsoleApp1\\README.md",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-16T21:28:21.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SquareRootOperationStrategy.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\SquareRootOperationStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SquareRootOperationStrategy.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\SquareRootOperationStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\SquareRootOperationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:25:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleLoggerObserver.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ConsoleLoggerObserver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleLoggerObserver.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ConsoleLoggerObserver.cs",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleLoggerObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:23:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultPublisher.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ResultPublisher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ResultPublisher.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ResultPublisher.cs",
+              "RelativeToolTip": "ConsoleApp1\\ResultPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:22:46.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumericProcessor.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\NumericProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\NumericProcessor.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\NumericProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\NumericProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:22:26.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeOperationStrategy.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\CubeOperationStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CubeOperationStrategy.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\CubeOperationStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\CubeOperationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:21:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:20:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistoryLoggerObserver.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\HistoryLoggerObserver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\HistoryLoggerObserver.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\HistoryLoggerObserver.cs",
+              "RelativeToolTip": "ConsoleApp1\\HistoryLoggerObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:23:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThresholdNotifierObserver.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ThresholdNotifierObserver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ThresholdNotifierObserver.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\ThresholdNotifierObserver.cs",
+              "RelativeToolTip": "ConsoleApp1\\ThresholdNotifierObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:23:30.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquareOperationStrategy.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\SquareOperationStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SquareOperationStrategy.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\SquareOperationStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\SquareOperationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:21:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INumericOperationStrategy.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\INumericOperationStrategy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\INumericOperationStrategy.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_24\\ConsoleApp1\\ConsoleApp1\\INumericOperationStrategy.cs",
+              "RelativeToolTip": "ConsoleApp1\\INumericOperationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T21:20:56.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
