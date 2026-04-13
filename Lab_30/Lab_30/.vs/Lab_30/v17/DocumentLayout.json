@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\image.pmg||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:image.pmg||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "image.pmg",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\image.pmg",
+              "RelativeDocumentMoniker": "image.pmg",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\image.pmg",
+              "RelativeToolTip": "image.pmg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-13T11:40:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Lab30.Tests.csproj",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\TestProject1\\Lab30.Tests.csproj",
               "RelativeDocumentMoniker": "TestProject1\\Lab30.Tests.csproj",
@@ -55,11 +72,12 @@
               "RelativeToolTip": "TestProject1\\Lab30.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-13T11:17:59.595Z"
+              "WhenOpened": "2026-04-13T11:17:59.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
@@ -71,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
@@ -83,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_30\\Lab_30\\Lab_30\\Program.cs",
               "RelativeDocumentMoniker": "Lab_30\\Program.cs",
