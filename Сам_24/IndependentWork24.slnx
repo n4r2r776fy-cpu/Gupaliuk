@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab24.ConsoleApp/Lab24.ConsoleApp.csproj" />
+  <Project Path="Lab24.Core/Lab24.Core.csproj" />
+  <Project Path="Lab24.Tests/Lab24.Tests.csproj" />
+</Solution>
