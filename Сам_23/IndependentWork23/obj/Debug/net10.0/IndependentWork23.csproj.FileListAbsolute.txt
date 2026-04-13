@@ -1,0 +1,15 @@
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\bin\Debug\net10.0\IndependentWork23.exe
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\bin\Debug\net10.0\IndependentWork23.deps.json
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\bin\Debug\net10.0\IndependentWork23.runtimeconfig.json
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\bin\Debug\net10.0\IndependentWork23.dll
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\bin\Debug\net10.0\IndependentWork23.pdb
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.sourcelink.json
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.dll
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\refint\IndependentWork23.dll
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.pdb
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\IndependentWork23.genruntimeconfig.cache
+D:\ООП_2026\Gupaliuk\Сам_23\IndependentWork23\obj\Debug\net10.0\ref\IndependentWork23.dll
