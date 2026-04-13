@@ -1,0 +1,15 @@
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\bin\Debug\net8.0\Lab_30.exe
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\bin\Debug\net8.0\Lab_30.deps.json
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\bin\Debug\net8.0\Lab_30.runtimeconfig.json
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\bin\Debug\net8.0\Lab_30.dll
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\bin\Debug\net8.0\Lab_30.pdb
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.sourcelink.json
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.dll
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\refint\Lab_30.dll
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.pdb
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\Lab_30.genruntimeconfig.cache
+D:\ООП_2026\Gupaliuk\Lab_30\Lab_30\Lab_30\obj\Debug\net8.0\ref\Lab_30.dll
