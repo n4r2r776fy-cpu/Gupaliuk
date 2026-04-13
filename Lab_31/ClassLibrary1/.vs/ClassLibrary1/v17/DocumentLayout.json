@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DDD637-07C9-43CB-8E6C-5232513B99F7}|TestProject1\\Lab31.Tests.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_31\\classlibrary1\\testproject1\\userservicetests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DDD637-07C9-43CB-8E6C-5232513B99F7}|TestProject1\\Lab31.Tests.csproj|solutionrelative:testproject1\\userservicetests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AA9955-606A-464C-9FFE-949D88CC7366}|ClassLibrary1\\ClassLibrary1.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_31\\classlibrary1\\classlibrary1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AA9955-606A-464C-9FFE-949D88CC7366}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DDD637-07C9-43CB-8E6C-5232513B99F7}|TestProject1\\Lab31.Tests.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\lab_31\\classlibrary1\\testproject1\\lab31.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7DDD637-07C9-43CB-8E6C-5232513B99F7}|TestProject1\\Lab31.Tests.csproj|solutionrelative:testproject1\\lab31.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-13T11:54:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab31.Tests.csproj",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\TestProject1\\Lab31.Tests.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\Lab31.Tests.csproj",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\TestProject1\\Lab31.Tests.csproj",
+              "RelativeToolTip": "TestProject1\\Lab31.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T11:48:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserServiceTests.cs.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\TestProject1\\UserServiceTests.cs.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UserServiceTests.cs.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\TestProject1\\UserServiceTests.cs.cs",
+              "RelativeToolTip": "TestProject1\\UserServiceTests.cs.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:47:58.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\ClassLibrary1\\UserService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\UserService.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Lab_31\\ClassLibrary1\\ClassLibrary1\\UserService.cs",
+              "RelativeToolTip": "ClassLibrary1\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:46:54.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

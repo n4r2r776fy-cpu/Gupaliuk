@@ -1,0 +1,12 @@
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+D:\ООП_2026\Gupaliuk\Lab_31\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
