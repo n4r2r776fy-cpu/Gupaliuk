@@ -1,0 +1,15 @@
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.sourcelink.json
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\bin\Debug\net8.0\Lab_29.exe
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\bin\Debug\net8.0\Lab_29.deps.json
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\bin\Debug\net8.0\Lab_29.runtimeconfig.json
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\bin\Debug\net8.0\Lab_29.dll
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\bin\Debug\net8.0\Lab_29.pdb
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.dll
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\refint\Lab_29.dll
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.pdb
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\Lab_29.genruntimeconfig.cache
+D:\ООП_2026\Gupaliuk\Lab_29\Lab_29\Lab_29\obj\Debug\net8.0\ref\Lab_29.dll
