@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Linq; // Перенесли сюди
 using ECommerceApp.Application.Interfaces;
 using ECommerceApp.Domain.Entities;
 
@@ -14,12 +17,37 @@ namespace ECommerceApp.Application.Services
             _orderRepo = orderRepo;
         }
 
-        // Приклад LINQ: Пошук дорогих товарів, що є в наявності
+        // 1. Пошук преміальних товарів
         public IEnumerable<Product> GetPremiumAvailableProducts(decimal minPrice)
         {
             return _productRepo.GetAll()
                 .Where(p => p.Price >= minPrice && p.StockQuantity > 0)
                 .OrderByDescending(p => p.Price);
+        }
+
+        // 2. Товари, що закінчуються (менше 5 шт)
+        public IEnumerable<Product> GetLowStock() => 
+            _productRepo.GetAll().Where(p => p.StockQuantity < 5);
+
+        // 3. Сортування за ціною (від дорогих)
+        public IEnumerable<Product> GetByPrice() => 
+            _productRepo.GetAll().OrderByDescending(p => p.Price);
+
+        // 4. Загальна вартість всього складу (Агрегація)
+        public decimal GetTotalValue() => 
+            _productRepo.GetAll().Sum(p => p.Price * p.StockQuantity);
+
+        // 5. Пошук товару за назвою
+        public Product? FindByName(string name) => 
+            _productRepo.GetAll().FirstOrDefault(p => p.Name.Contains(name, StringComparison.OrdinalIgnoreCase));
+
+        // 6. Топ-3 найдорожчих замовлень клієнта
+        public IEnumerable<Order> GetTopExpensiveOrders(string customerName)
+        {
+            return _orderRepo.GetAll()
+                .Where(o => o.CustomerName == customerName)
+                .OrderByDescending(o => o.TotalAmount)
+                .Take(3);
         }
 
         public void PlaceOrder(string customerName, Dictionary<Guid, int> items)
@@ -35,16 +63,10 @@ namespace ECommerceApp.Application.Services
                 }
             }
             _orderRepo.Add(order);
+            
+            // Зберігаємо зміни (якщо методи SaveChanges є в інтерфейсах)
             _productRepo.SaveChanges();
             _orderRepo.SaveChanges();
-        }
-        // Метод показує топ-3 найдорожчих замовлень клієнта (Демонстрація LINQ)
-        public IEnumerable<Order> GetTopExpensiveOrders(string customerName)
-        {
-            return _orderRepo.GetAll()
-                .Where(o => o.CustomerName == customerName)
-                .OrderByDescending(o => o.TotalAmount)
-                .Take(3);
         }
     }
 }

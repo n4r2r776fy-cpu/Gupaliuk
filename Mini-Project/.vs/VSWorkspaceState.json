@@ -3,8 +3,13 @@
     "",
     "\\ECommerceProject",
     "\\ECommerceProject\\src",
-    "\\ECommerceProject\\src\\ECommerceApp.Console"
+    "\\ECommerceProject\\src\\ECommerceApp.Application",
+    "\\ECommerceProject\\src\\ECommerceApp.Application\\Services",
+    "\\ECommerceProject\\src\\ECommerceApp.Domain",
+    "\\ECommerceProject\\src\\ECommerceApp.Infrastructure",
+    "\\ECommerceProject\\src\\ECommerceApp.Infrastructure\\Persistence",
+    "\\ECommerceProject\\tests\\ECommerceApp.Tests"
   ],
-  "SelectedNode": "\\ECommerceProject\\ECommerceApp.slnx",
+  "SelectedNode": "\\ECommerceProject\\src\\ECommerceApp.Infrastructure\\Persistence\\JsonProductRepository.cs",
   "PreviewInSolutionExplorer": false
 }

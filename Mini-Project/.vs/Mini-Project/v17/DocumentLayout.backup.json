@@ -50,7 +50,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "ECommerceProject\\src\\ECommerceApp.Console\\Program.cs",
               "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Console\\Program.cs",
               "RelativeToolTip": "ECommerceProject\\src\\ECommerceApp.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T13:17:44.807Z",
               "EditorCaption": ""

@@ -41,5 +41,17 @@ namespace ECommerceApp.Infrastructure.Persistence
                 _products[index] = product;
             }
         }
+        public async Task SaveAsync()
+        {
+            var json = JsonSerializer.Serialize(_products, new JsonSerializerOptions { WriteIndented = true });
+            await File.WriteAllTextAsync(_filePath, json);
+        }
+
+        public async Task LoadAsync()
+        {
+            if (!File.Exists(_filePath)) return;
+            var json = await File.ReadAllTextAsync(_filePath);
+            _products = JsonSerializer.Deserialize<List<Product>>(json) ?? new List<Product>();
+        }
     }
 }
