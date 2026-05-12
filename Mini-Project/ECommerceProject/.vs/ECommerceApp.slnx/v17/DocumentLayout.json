@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDDD03B-3DE0-9C77-8AA7-6E8FDD1391E6}|src\\ECommerceApp.Application\\ECommerceApp.Application.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\mini-project\\ecommerceproject\\src\\ecommerceapp.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDDD03B-3DE0-9C77-8AA7-6E8FDD1391E6}|src\\ECommerceApp.Application\\ECommerceApp.Application.csproj|solutionrelative:src\\ecommerceapp.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEC6CE6-1814-6945-CAE3-17E1BFF2D6F7}|src\\ECommerceApp.Console\\ECommerceApp.Console.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\mini-project\\ecommerceproject\\src\\ecommerceapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEC6CE6-1814-6945-CAE3-17E1BFF2D6F7}|src\\ECommerceApp.Console\\ECommerceApp.Console.csproj|solutionrelative:src\\ecommerceapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4740218D-24C7-9C0F-9442-19CD50D6FC2A}|src\\ECommerceApp.Infrastructure\\ECommerceApp.Infrastructure.csproj|d:\\\u043E\u043E\u043F_2026\\gupaliuk\\mini-project\\ecommerceproject\\src\\ecommerceapp.infrastructure\\persistence\\jsonproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4740218D-24C7-9C0F-9442-19CD50D6FC2A}|src\\ECommerceApp.Infrastructure\\ECommerceApp.Infrastructure.csproj|solutionrelative:src\\ecommerceapp.infrastructure\\persistence\\jsonproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceApp.Application\\Services\\OrderService.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\ECommerceApp.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:41:53.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonProductRepository.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Infrastructure\\Persistence\\JsonProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceApp.Infrastructure\\Persistence\\JsonProductRepository.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Infrastructure\\Persistence\\JsonProductRepository.cs",
+              "RelativeToolTip": "src\\ECommerceApp.Infrastructure\\Persistence\\JsonProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:37:46.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceApp.Console\\Program.cs",
+              "ToolTip": "D:\\\u041E\u041E\u041F_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Console\\Program.cs",
+              "RelativeToolTip": "src\\ECommerceApp.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:35:21.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\bin\Debug\net10.0\ECommerceApp.Domain.deps.json
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\bin\Debug\net10.0\ECommerceApp.Domain.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\bin\Debug\net10.0\ECommerceApp.Domain.pdb
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.sourcelink.json
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\refint\ECommerceApp.Domain.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ECommerceApp.Domain.pdb
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Domain\obj\Debug\net10.0\ref\ECommerceApp.Domain.dll

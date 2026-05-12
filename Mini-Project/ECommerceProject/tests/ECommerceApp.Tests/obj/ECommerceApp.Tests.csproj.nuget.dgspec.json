@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\tests\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\ECommerceApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
+        "projectName": "ECommerceApp.Application",
+        "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\ECommerceApp.Application.csproj",
+        "packagesPath": "C:\\Users\\romag\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {
+              "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj": {
+                "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj",
+        "projectName": "ECommerceApp.Domain",
+        "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\romag\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\tests\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\tests\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "projectName": "ECommerceApp.Tests",
+        "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\tests\\ECommerceApp.Tests\\ECommerceApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\romag\\.nuget\\packages\\",
+        "outputPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\tests\\ECommerceApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\romag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {
+              "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\ECommerceApp.Application.csproj": {
+                "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Application\\ECommerceApp.Application.csproj"
+              },
+              "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj": {
+                "projectPath": "D:\\ООП_2026\\Gupaliuk\\Mini-Project\\ECommerceProject\\src\\ECommerceApp.Domain\\ECommerceApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

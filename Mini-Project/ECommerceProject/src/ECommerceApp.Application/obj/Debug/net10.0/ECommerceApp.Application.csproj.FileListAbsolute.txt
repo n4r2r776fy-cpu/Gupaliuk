@@ -1,0 +1,16 @@
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\bin\Debug\net10.0\ECommerceApp.Application.deps.json
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\bin\Debug\net10.0\ECommerceApp.Application.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\bin\Debug\net10.0\ECommerceApp.Application.pdb
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\bin\Debug\net10.0\ECommerceApp.Domain.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\bin\Debug\net10.0\ECommerceApp.Domain.pdb
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.csproj.AssemblyReference.cache
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.AssemblyInfoInputs.cache
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.AssemblyInfo.cs
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.csproj.CoreCompileInputs.cache
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.sourcelink.json
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerc.708A6477.Up2Date
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\refint\ECommerceApp.Application.dll
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ECommerceApp.Application.pdb
+D:\ООП_2026\Gupaliuk\Mini-Project\ECommerceProject\src\ECommerceApp.Application\obj\Debug\net10.0\ref\ECommerceApp.Application.dll
